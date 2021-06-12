@@ -1,4 +1,5 @@
-# Image Classification using Statistical Modeling, CNN and Deep neural network architecture (InceptionV3, ResNet-50)
+# Image Classification 
+### Using Statistical Modeling, CNN and Deep neural network architecture (InceptionV3, ResNet-50)
 
 ## Table of contents
 * [Introduction](#introduction)
